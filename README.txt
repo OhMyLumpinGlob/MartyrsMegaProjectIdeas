@@ -1,0 +1,1 @@
+A collection of Python solutions to Martyr's Mega Project Idea List entries, a copy of which can be found in PROJECT_LIST.txt
