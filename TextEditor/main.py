@@ -26,9 +26,9 @@ def About():
 
 def Help():
     help_window = Toplevel()
-    label = Label(help_window,text="No-one can help you now.")
+    label = Label(help_window,text="No-one can help you now, buddy")
     label.pack(side=TOP)
-    ok_button = Button(help_window, text='Aw man...', command=help_window.destroy)
+    ok_button = Button(help_window, text="I'm not your buddy, guy!", command=help_window.destroy)
     ok_button.pack(side=BOTTOM)
 
 def New():
