@@ -5,15 +5,13 @@ Pig Latin – Pig Latin is a game of alterations played on the English language ga
 Count Vowels – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
 Check if Palindrome – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 Count Words in a String – Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
-
+Text Editor – Notepad style application that can open, edit, and save text documents. Add syntax highlighting and other features.
 
 
 LIST OF PROJECTS TO DO
 
 Text
 
-
-Text Editor – Notepad style application that can open, edit, and save text documents. Add syntax highlighting and other features.
 
 RSS Feed Creator – A program which can read in text from other sources and put it in RSS or Atom news format for syndication.
 
